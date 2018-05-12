@@ -1,0 +1,32 @@
+_repo: The-Problem-of-Edwin-Drood---A-Study-in-the-Methods-of-Dickens_36311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Wace, Walter E.
+    - Clear, Claudius
+    - Nicoll, William Robertson, Sir
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cathedrals in literature'
+- !lcsh 'Murder in literature'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870. Mystery of Edwin Drood'
+title: 'The Problem of ''Edwin Drood'': A Study in the Methods of Dickens'
+url: http://www.gutenberg.org/ebooks/36311
